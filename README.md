@@ -15,7 +15,7 @@
 
 ## Current Projects
 
-- 📝 **[Plate](https://github.com/udecode/plate)** - Rich-text editor with AI, MCP, and shadcn/ui
+- 📝 **[plate](https://github.com/udecode/plate)** - Rich-text editor with AI, MCP, and shadcn/ui
 - ⚡ **[better-convex](https://github.com/udecode/better-convex)** - tRPC + TanStack Query + Better Auth for Convex
 - 🤖 **[dotai](https://github.com/udecode/dotai)** - Claude plugins for any project
 - 🎯 **[skiller](https://github.com/udecode/skiller)** - Apply the same rules to all coding agents
@@ -33,7 +33,7 @@
 
 ## Connect
 
-[![Twitter](https://img.shields.io/badge/-@zbeyens-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/zbeyens)
+[![x](https://img.shields.io/badge/-@zbeyens-black?style=flat-square&logo=x&logoColor=white)](https://x.com/zbeyens)
 [![LinkedIn](https://img.shields.io/badge/-Ziad_Beyens-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zbeyens)
 [![Discord](https://img.shields.io/badge/-Plate_Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/mAZRuBzGM3)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zbeyens)
