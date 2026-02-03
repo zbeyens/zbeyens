@@ -11,7 +11,6 @@
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 
 > From rich-text to real-time: tools for AI apps.
-> All my code is now written by Claude.
 
 ## Current Projects
 
