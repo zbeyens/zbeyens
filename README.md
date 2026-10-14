@@ -14,8 +14,8 @@
 
 ## Current Projects
 
-- 📝 **[plate](https://github.com/udecode/plate)** - Rich-text editor with AI, MCP, and shadcn/ui
-- ⚡ **[better-convex](https://github.com/udecode/better-convex)** - tRPC + TanStack Query + Better Auth for Convex
+- 📝 **[plate](https://github.com/udecode/plate)** - Rich-text editor with AI and shadcn/ui
+- ⚡ **[kitcn](https://github.com/udecode/kitcn)** - tRPC + TanStack Query + Better Auth for Convex
 - 🤖 **[dotai](https://github.com/udecode/dotai)** - Claude plugins for any project
 - 🎯 **[skiller](https://github.com/udecode/skiller)** - Apply the same rules to all coding agents
 - 👻 **[jotai-x](https://github.com/udecode/jotai-x)** - Jotai store factory for a best-in-class DX
