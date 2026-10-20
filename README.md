@@ -28,7 +28,6 @@
 ## What I'm Doing
 
 - **Building Plate** - The AI-native editor at [platejs.org](https://platejs.org)
-- **Building Better Convex** - The DX layer Convex is missing at [better-convex.com](https://www.better-convex.com/)
 
 ## Connect
 
